@@ -27,13 +27,14 @@ body{
 }
 
 #image{
-    position: relative;
+    position: fixed;
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: auto;   
     width: 90%;
     text-align: center;
+    align-content: center;
 }
 
 #tribute-info{
