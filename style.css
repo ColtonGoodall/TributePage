@@ -20,12 +20,16 @@ body{
 #img-div{
     background-color: whitesmoke;
     position: relative;
-    width: 95%;
+    width: 100%;
     align-content: center;
     text-align: center;
-    padding-left: 2%;
-    padding-right: 2%;
-    margin: auto;
+    padding: 2%;
+}
+
+#image{
+    height: auto;
+    width: 95%;
+    text-align: center;
 }
 
 #tribute-info{
