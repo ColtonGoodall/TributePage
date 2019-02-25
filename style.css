@@ -11,6 +11,7 @@ body{
 #title-div{
     position: relative;
     width: 100%;
+    max-width: 100%;
     align-content: center;
     text-align: center;
     background-color: gray;
