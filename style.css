@@ -1,6 +1,6 @@
-body{
-    margin: 0px;
-    padding: 0px;
+*{
+    margin: 0;
+    padding: 0;
 }
 
 #title-div{
@@ -9,8 +9,8 @@ body{
     align-content: center;
     text-align: center;
     /* margin-left: 5px;
-    margin-right: 5px; */
-    padding: 0%;
+    margin-right: 5px; 
+    padding: 0%; */
     background-color: gray;
     opacity: 1%;
 }
@@ -21,7 +21,7 @@ body{
     align-content: center;
     text-align: center;
     /* margin-left: 5px;
-    margin-right: 5px; */
-    padding: 0%;
+    margin-right: 5px; 
+    padding: 0%; */
     background-color: whitesmoke;
 }
