@@ -1,6 +1,6 @@
 #title-div{
     position: relative;
-    left: auto;
+    align-content: center;
     background-color: gray;
     opacity: 5%;
 }
