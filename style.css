@@ -30,9 +30,8 @@ body{
     margin-left: auto;
     margin-right: auto;
     height: auto;   
-    width: 60%;
-    background-color: pink;
-    opacity: 1%;
+    width: 100%;
+    max-width: 800px;
 }
 
 #tribute-info{
