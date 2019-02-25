@@ -19,8 +19,7 @@ body{
 
 #img-div{
     background-color: whitesmoke;
-    position: relative;
-    width: 100%;
+    width: 96%;
     align-content: center;
     text-align: center;
     padding: 2%;
@@ -32,6 +31,8 @@ body{
     margin-right: auto;
     height: auto;   
     width: 60%;
+    background-color: pink;
+    opacity: 1%;
 }
 
 #tribute-info{
