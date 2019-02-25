@@ -3,16 +3,11 @@ body{
     opacity: 5%;
 }
 
-h3{
+#title-div{
     position: absolute;
-    left: auto;
-    right: auto;
-    margin: auto;
-}
-
-#title{
-    position:relative;
-    margin: auto;
+    left: 300px;
+    background-color: gray;
+    opacity: 10%;
 }
 
 #img-div{
