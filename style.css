@@ -4,8 +4,9 @@ body{
 }
 
 h3{
-    position: relative;
-    left: 150px;
+    position: absolute;
+    left: auto;
+    right: auto;
     margin: auto;
 }
 
