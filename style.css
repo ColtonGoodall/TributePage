@@ -13,9 +13,6 @@ body{
     width: 100%;
     align-content: center;
     text-align: center;
-    /* margin-left: 5px;
-    margin-right: 5px; 
-    padding: 0%; */
     background-color: gray;
     opacity: 1%;
 }
@@ -26,8 +23,5 @@ body{
     width: 100%;
     align-content: center;
     text-align: center;
-    /* margin-left: 5px;
-    margin-right: 5px; 
-    padding: 0%; */
-    background-color: whitesmoke;
+    padding: 2%;
 }
