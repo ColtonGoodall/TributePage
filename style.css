@@ -1,8 +1,8 @@
 #title-div{
     position: relative;
-    left: 300px;
+    left: auto;
     background-color: gray;
-    opacity: 10%;
+    opacity: 5%;
 }
 
 #img-div{
