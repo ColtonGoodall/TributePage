@@ -1,10 +1,5 @@
-body{
-    background: pink;
-    opacity: 5%;
-}
-
 #title-div{
-    position: absolute;
+    position: relative;
     left: 300px;
     background-color: gray;
     opacity: 10%;
